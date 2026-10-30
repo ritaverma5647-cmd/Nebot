@@ -1,4 +1,12 @@
-fastapi
-uvicorn
-groq
-pydantic
+fastapi==0.110.0
+uvicorn==0.28.0
+groq==0.4.2
+pydantic==2.6.4
+requests==2.31.0
+numpy==1.26.4
+faiss-cpu==1.8.0
+sentence-transformers==2.5.1
+beautifulsoup4==4.12.3
+cryptography==42.0.5
+aiohttp==3.9.3
+python-multipart==0.0.9
